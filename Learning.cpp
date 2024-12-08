@@ -14,7 +14,7 @@ if(musfira_age<=18){
     cout<<"Chutku"<<endl;
 }
 else{
-    cout<<"Musfira budhi"<<endl;
+    cout<<"ok"<<endl;
 }
 
 return 0;
